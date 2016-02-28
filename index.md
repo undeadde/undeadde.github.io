@@ -8,7 +8,7 @@ layout: home
             <li class="on"><a href="/"><span>Blog</span></a></li>
             <li><a href="/opinion"><span>Opinion</span></a></li>
             <li><a href="/project"><span>Project</span></a></li>
-            <li><a href="/project"><span>About</span></a></li>
+            <li><a href="/about"><span>About</span></a></li>
         </ul>
 
         <div class="cate-bar"><span id="cateBar"></span></div>
